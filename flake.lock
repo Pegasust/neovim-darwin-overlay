@@ -137,11 +137,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1689397210,
-        "narHash": "sha256-fVxZnqxMbsDkB4GzGAs/B41K0wt/e+B/fLxmTFF/S20=",
+        "lastModified": 1695684520,
+        "narHash": "sha256-yORqGB0i1OtEf9MOCCT2BIbOd8txPZn216CM+ylMmhY=",
         "owner": "hercules-ci",
         "repo": "hercules-ci-effects",
-        "rev": "0a63bfa3f00a3775ea3a6722b247880f1ffe91ce",
+        "rev": "91fae5824f5f1199f61693c6590b4a89abaed9d7",
         "type": "github"
       },
       "original": {
@@ -159,11 +159,11 @@
       },
       "locked": {
         "dir": "contrib",
-        "lastModified": 1695424083,
-        "narHash": "sha256-mCB8q5XQdmttc4+78YnRnWKtb8cGOYCp3nXEbCJb2Xw=",
+        "lastModified": 1695680038,
+        "narHash": "sha256-B17AdqHUjU1B+mR2qmk5piq1+fxl0bt9y0wh6rGSUM8=",
         "owner": "neovim",
         "repo": "neovim",
-        "rev": "c68c121f50ee0eae7f26ed043689105086572f55",
+        "rev": "3387dc4a463c80a01702cdd069dde3d505a4e805",
         "type": "github"
       },
       "original": {
@@ -209,16 +209,16 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1695227375,
-        "narHash": "sha256-76WTkeCu3npPZDkay2hB2Dj3cOuCiF0P41dbmXWUKtA=",
-        "owner": "NixOS",
+        "lastModified": 1695695152,
+        "narHash": "sha256-SuSkBGLPdaIwiwN45uT/yMtZvDdiQdqvDx/WMB93Qso=",
+        "owner": "pegasust",
         "repo": "nixpkgs",
-        "rev": "fe977679240ac2027b151ecca1bc6ce808c2e8af",
+        "rev": "a63c7a714fc89d832237fdef63a22a62ee332929",
         "type": "github"
       },
       "original": {
-        "owner": "NixOS",
-        "ref": "nixpkgs-unstable",
+        "owner": "pegasust",
+        "ref": "nvim-patch-liblpeg",
         "repo": "nixpkgs",
         "type": "github"
       }

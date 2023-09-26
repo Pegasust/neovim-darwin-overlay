@@ -2,7 +2,7 @@
   description = "Neovim flake";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
+    nixpkgs.url = "github:pegasust/nixpkgs/nvim-patch-liblpeg";
     flake-parts = { url = "github:hercules-ci/flake-parts"; inputs.nixpkgs-lib.follows = "nixpkgs"; };
     hercules-ci-effects = { url = "github:hercules-ci/hercules-ci-effects"; inputs.nixpkgs.follows = "nixpkgs"; };
     flake-compat = { url = "github:edolstra/flake-compat"; flake = false; };
