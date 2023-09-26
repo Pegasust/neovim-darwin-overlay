@@ -209,11 +209,11 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1695695152,
+        "lastModified": 1695695966,
         "narHash": "sha256-SuSkBGLPdaIwiwN45uT/yMtZvDdiQdqvDx/WMB93Qso=",
         "owner": "pegasust",
         "repo": "nixpkgs",
-        "rev": "a63c7a714fc89d832237fdef63a22a62ee332929",
+        "rev": "63df58ab349526d3b24f32aec9efc1d5c1de905d",
         "type": "github"
       },
       "original": {
